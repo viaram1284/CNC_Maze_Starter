@@ -15,15 +15,18 @@ M03 S1000		(Spin the pen for better precision)
 Z0.0			(Move the pen to the paper)
 
 (MOVEMENTS TO SOLVE THE MAZE)
-Y0.25 (North)
-X4.75 (East)
-Y2.75 (North)
-X4.0 (West)
-Y0.75 (South)
-X3.25 (West)
-Y2.25 (North)
-X1.25 (West)
-Y1.75 
+Y0.25 (north)
+X4.75 
+Y2.75
+X4.25
+Y1.75
+X3.25
+Y2.25
+X1.75
+Y1.75
+X2.75
+Y0.75
+X
 
 (END SEQUENCE)
 G00 G53 Z0.0	(Raise the pen) 
